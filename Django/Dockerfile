@@ -1,6 +1,6 @@
 FROM python
 
-COPY Django/stocks_products /dj_app
+COPY stocks_products /dj_app
 
 WORKDIR /dj_app
 
